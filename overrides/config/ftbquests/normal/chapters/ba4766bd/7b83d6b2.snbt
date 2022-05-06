@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "3118255d",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:material 1 5"
+		}]
+	}]
+}

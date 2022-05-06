@@ -1,0 +1,59 @@
+{
+	title: "撸草爱好者",
+	x: -3.5d,
+	y: -2.0d,
+	description: "打草获取巫术植物的种子",
+	text: [
+		"巫术的发展离不开这些种子",
+		"破坏草和高草可以获取这些种子",
+		"将它们种植在耕地上",
+		"其中，有一株植物需要种植在水上",
+		"之后，你便可以发展巫术了"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2dde60a4"
+	],
+	tasks: [{
+		uid: "e885cf3a",
+		type: "item",
+		items: [{
+			item: "witchery:artichoke_seeds"
+		}]
+	},
+	{
+		uid: "0ed94581",
+		type: "item",
+		items: [{
+			item: "witchery:garlic"
+		}]
+	},
+	{
+		uid: "1ce9cce3",
+		type: "item",
+		items: [{
+			item: "witchery:snowbell_seeds"
+		}]
+	},
+	{
+		uid: "704f3685",
+		type: "item",
+		items: [{
+			item: "witchery:wolfsbane_seeds"
+		}]
+	},
+	{
+		uid: "9531143a",
+		type: "item",
+		items: [{
+			item: "witchery:mandrake_seeds"
+		}]
+	},
+	{
+		uid: "c50fc59b",
+		type: "item",
+		items: [{
+			item: "witchery:belladonna_seeds"
+		}]
+	}]
+}

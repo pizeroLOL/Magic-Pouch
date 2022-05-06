@@ -1,0 +1,25 @@
+{
+	title: "它们来了！",
+	x: 3.5d,
+	y: -3.0d,
+	description: "浸渍了血的柳条，可能会吸引一些险恶的玩意",
+	text: [
+		"通过浸血的柳条捆摆放为自然生成的异教稻草人结构，点燃即可召唤角魔狩猎者"
+	],
+	dependencies: [
+		"3c2cefae"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "17c54d29",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:iron_sword"
+		},
+		entity: "witchery:horned_huntsman",
+		value: 1L
+	}]
+}

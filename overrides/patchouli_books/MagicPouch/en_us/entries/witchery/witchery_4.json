@@ -1,0 +1,28 @@
+{
+  "name" : "更多机器",
+  "icon" : "witchery:distillery",
+  "category" : "witchery",
+  "sortnum" : 4,
+  "pages" : [
+    {
+      "type" : "text",
+      "text" : "有了祭坛我们就可以做更高级的设备了。下一步我们要做蒸馏塔和转轮还有水壶。这三个设备外加我们之前做好的巫师炼药锅都需要祭坛魔力的供给，也就是说他们需要在祭坛的覆盖范围内（周围7格距离内），蒸馏塔和转轮要紧靠祭坛放置，水壶和炼药锅一样需要下面放火加热，不过水壶制作药水不需要按照顺序加入，添水一桶水就满了。这些都做好巫术的基本设备我们就都做好了。"
+    },
+    {
+      "type" : "crafting",
+      "recipe" : "witchery:attuned_stone"
+    },
+    {
+      "type" : "crafting",
+      "recipe" : "witchery:distillery"
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery:spinning_wheel"
+    },
+    {
+      "type" : "crafting",
+      "recipe" : "witchery:kettle"
+    }
+ ]
+}

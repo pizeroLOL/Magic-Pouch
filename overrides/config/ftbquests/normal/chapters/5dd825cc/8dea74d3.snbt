@@ -1,0 +1,16 @@
+{
+	title: "终结自己的梦魇！",
+	x: 12.0d,
+	y: 6.5d,
+	description: "击杀一只梦魇",
+	dependencies: [
+		"d942c5da"
+	],
+	tasks: [{
+		uid: "7f9f3d72",
+		type: "item",
+		items: [{
+			item: "witchery:mellifluous_hunger"
+		}]
+	}]
+}

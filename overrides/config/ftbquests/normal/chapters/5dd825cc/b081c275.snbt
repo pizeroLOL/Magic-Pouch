@@ -1,0 +1,16 @@
+{
+	title: "做个美梦",
+	x: 7.5d,
+	y: 3.5d,
+	description: "合成夜魇之织梦者，使你进入美梦",
+	dependencies: [
+		"403cf791"
+	],
+	tasks: [{
+		uid: "6ba6fa91",
+		type: "item",
+		items: [{
+			item: "witchery:nightmares_dream_weaver"
+		}]
+	}]
+}

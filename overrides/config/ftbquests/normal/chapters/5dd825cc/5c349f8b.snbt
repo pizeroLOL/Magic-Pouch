@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -8.0d,
+	dependencies: [
+		"e05d7e40"
+	],
+	tasks: [{
+		uid: "1c4d1f6b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:polynesia_charm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

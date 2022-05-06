@@ -1,0 +1,27 @@
+{
+	title: "丑陋的巫婆",
+	x: -4.0d,
+	y: -3.0d,
+	description: "你凝视着水晶球，仿佛有什么邪恶的东西正要钻出来",
+	text: [
+		"进行水晶球占卜",
+		"有几率遇到芭芭雅嘎",
+		"注意，她并不是什么时候都是敌对的！"
+	],
+	dependencies: [
+		"23fc3b80"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "fe553061",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		},
+		entity: "witchery:baba_yaga",
+		value: 1L
+	}]
+}

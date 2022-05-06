@@ -1,0 +1,15 @@
+{
+	x: 5.5d,
+	y: -4.0d,
+	dependencies: [
+		"64946d71",
+		"3c2cefae"
+	],
+	tasks: [{
+		uid: "8f458cad",
+		type: "item",
+		items: [{
+			item: "witchery:mystic_unguent"
+		}]
+	}]
+}

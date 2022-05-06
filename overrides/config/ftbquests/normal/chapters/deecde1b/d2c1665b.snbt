@@ -1,0 +1,37 @@
+{
+	title: "贪欲者的报应",
+	x: -1.5d,
+	y: -3.0d,
+	description: "一个将妖精的自由视为娱乐的人，必将会受到妖精的惩罚",
+	text: [
+		"这两只哥布林在使用下界之星右键崇拜者数量≥5名的妖精主顾之雕像或者在崇拜者数量≥15名的妖精主顾之雕像存在的情况下每tick有10%的几率生成。"
+	],
+	dependencies: [
+		"008b7efb"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "2f044d5b",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		},
+		entity: "witchery:goblin_mog",
+		value: 1L
+	},
+	{
+		uid: "05593645",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		},
+		entity: "witchery:goblin_gulg",
+		value: 1L
+	}]
+}

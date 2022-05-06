@@ -1,0 +1,28 @@
+{
+	x: -4.0d,
+	y: 4.5d,
+	dependencies: [
+		"7e72d5ca"
+	],
+	tasks: [{
+		uid: "70728a73",
+		type: "item",
+		items: [{
+			item: "witchery:distillery"
+		}]
+	},
+	{
+		uid: "444b917d",
+		type: "item",
+		items: [{
+			item: "witchery:kettle"
+		}]
+	},
+	{
+		uid: "80decfd4",
+		type: "item",
+		items: [{
+			item: "witchery:spinning_wheel"
+		}]
+	}]
+}

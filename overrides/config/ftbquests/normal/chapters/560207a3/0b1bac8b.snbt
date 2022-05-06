@@ -1,0 +1,23 @@
+{
+	title: "注意通风",
+	x: -5.0d,
+	y: -0.5d,
+	description: "制作熏气漏斗来使巫烤炉效率更高",
+	text: [
+		"熏气漏斗可以插在巫师烤炉的左右两侧",
+		"提高巫师烤炉的副产物产出率和燃烧速度",
+		"推荐先制作两个熏气漏斗摆在女巫烤炉两侧",
+		"减少浪费"
+	],
+	dependencies: [
+		"1a4cc7df"
+	],
+	tasks: [{
+		uid: "96d6ad00",
+		type: "item",
+		items: [{
+			item: "witchery:fume_funnel"
+		}],
+		count: 2L
+	}]
+}

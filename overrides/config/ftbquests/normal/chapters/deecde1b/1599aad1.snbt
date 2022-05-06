@@ -1,0 +1,21 @@
+{
+	title: "从坩埚中冒出的邪恶",
+	x: 6.0d,
+	y: -3.0d,
+	description: "坩埚里...有什么...冒出来了...",
+	dependencies: [
+		"bc64582f"
+	],
+	tasks: [{
+		uid: "8af78962",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:huntsmans_spear"
+		},
+		entity: "witchery:leonard",
+		value: 1L
+	}]
+}

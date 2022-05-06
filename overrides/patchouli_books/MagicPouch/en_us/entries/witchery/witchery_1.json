@@ -1,0 +1,28 @@
+{
+  "name" : "起步",
+  "icon" : "witchery:witches_oven",
+  "category" : "witchery",
+  "sortnum" : 1,
+  "pages": [
+    {
+      "type" : "text",
+      "text" : "作为新世界的凡人，如何成为一名巫师呢？首先你需要做巫师的基本设备：巫师烤炉和熏气漏斗。$(br)这两个东西可以帮我们获得基本的巫术熏气(钻石熏气除外)你会发现还有个东西叫过滤强化型熏气漏斗，这个我们等富裕了再做，前中期可以忽视。"
+    },
+    {
+      "type" : "text",
+      "text" : "我们做了烤炉其实就可以投入使用，但是烤炉本身产生熏气的几率不高，一左一右加装2个熏气漏斗后大约有80%的几率可以获得熏气，基本够用，2个强化型熏气漏斗的话基本可以百分之百。烧纸熏气需要在左边放置染料（其他mod的燃料可能不支持，尽量使用原版的燃料），烧纸的树苗（或者食物，烧食物比熔炉稍快哦），还有粘土罐就可以了。粘土罐是用软粘土罐在熔炉烧出来的，软粘土罐就是用粘土做的。"
+    },
+    {
+      "type" : "crafting",
+      "recipe" : "witchery:witches_oven"
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery:fumefunnel"
+    },
+    {
+      "type" : "crafting",
+      "recipe" : "witchery:soft_clay_jar"
+    }
+  ]
+}

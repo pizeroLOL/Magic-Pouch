@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: -4.0d,
+	dependencies: [
+		"64946d71"
+	],
+	tasks: [{
+		uid: "c9de55fd",
+		type: "item",
+		items: [{
+			item: "witchery:happenstance_oil"
+		}]
+	}]
+}

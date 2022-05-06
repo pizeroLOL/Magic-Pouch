@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	dependencies: [
+		"1760b270"
+	],
+	tasks: [{
+		uid: "c561bd32",
+		type: "item",
+		items: [{
+			item: "witchery:koboldite_ingot"
+		}]
+	}]
+}

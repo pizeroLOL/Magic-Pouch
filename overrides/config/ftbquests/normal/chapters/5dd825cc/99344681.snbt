@@ -1,0 +1,19 @@
+{
+	x: 5.5d,
+	y: -5.5d,
+	dependencies: [
+		"211301b0"
+	],
+	tasks: [{
+		uid: "ffff2693",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:mystic_branch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

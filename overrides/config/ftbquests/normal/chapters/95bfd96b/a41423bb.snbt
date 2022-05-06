@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 1.5d,
+	dependencies: [
+		"fd16b80a"
+	],
+	tasks: [{
+		uid: "a6a6fd98",
+		type: "item",
+		items: [{
+			item: "witchery:mutandis_extremis"
+		}]
+	}]
+}

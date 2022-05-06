@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"7860019e"
+	],
+	tasks: [{
+		uid: "42229e6b",
+		type: "item",
+		items: [{
+			item: "witchery:infernal_circle_glyph"
+		}]
+	},
+	{
+		uid: "1fafec03",
+		type: "item",
+		items: [{
+			item: "witchery:otherwhere_circle_glyph"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -5.0d,
+	dependencies: [
+		"6a7c9c3c"
+	],
+	tasks: [{
+		uid: "968bf23d",
+		type: "item",
+		items: [{
+			item: "witchery:crystal_ball"
+		}]
+	}]
+}

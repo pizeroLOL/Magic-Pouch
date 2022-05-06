@@ -1,0 +1,7 @@
+{
+	title: "极限魔法",
+	icon: "botania_tweaks:compressed_tiny_potato_5",
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

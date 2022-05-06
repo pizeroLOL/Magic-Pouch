@@ -1,0 +1,7 @@
+{
+	title: "终极魔法",
+	icon: "botania_tweaks:compressed_tiny_potato_6",
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

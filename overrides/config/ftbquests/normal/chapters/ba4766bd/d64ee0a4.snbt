@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "0df9d3ce",
+		type: "item",
+		items: [{
+			item: "psi:material 1 2"
+		}]
+	}]
+}

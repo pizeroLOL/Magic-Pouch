@@ -1,0 +1,15 @@
+{
+	x: -6.5d,
+	y: 2.0d,
+	dependencies: [
+		"bb01f9b3"
+	],
+	tasks: [{
+		uid: "7fe1b171",
+		type: "item",
+		items: [{
+			item: "witchery:worship_statue"
+		}],
+		ignore_nbt: 1b
+	}]
+}

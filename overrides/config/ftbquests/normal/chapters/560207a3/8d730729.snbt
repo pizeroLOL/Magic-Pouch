@@ -1,0 +1,31 @@
+{
+	title: "魔法变变变",
+	x: -6.5d,
+	y: -2.0d,
+	description: "使用坩埚制造转生粉",
+	text: [
+		"女巫坩埚是一个基础的机器",
+		"用来制造巫术中的大部分材料",
+		"使用女巫坩埚制作转生粉",
+		"转换植物，可以得到巫术的三种专属树苗",
+		"你要收集它们，并且采集它们的原木",
+		"以便接下来的发展"
+	],
+	dependencies: [
+		"1a4cc7df"
+	],
+	tasks: [{
+		uid: "8d060046",
+		type: "item",
+		items: [{
+			item: "witchery:mutandis"
+		}]
+	},
+	{
+		uid: "8771cfb5",
+		type: "item",
+		items: [{
+			item: "witchery:cauldron"
+		}]
+	}]
+}

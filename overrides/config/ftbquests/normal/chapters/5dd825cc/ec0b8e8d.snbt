@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -2.5d,
+	dependencies: [
+		"bb07c757"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "16e7ee82",
+		type: "item",
+		items: [{
+			item: "witchery:bat_wool"
+		}]
+	}]
+}

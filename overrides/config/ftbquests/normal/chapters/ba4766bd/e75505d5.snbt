@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b7705cbf",
+		type: "item",
+		items: [{
+			item: "tconstruct:metal 1 2"
+		}]
+	}]
+}

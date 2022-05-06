@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -2.5d,
+	dependencies: [
+		"b2fafe1e"
+	],
+	tasks: [{
+		uid: "8ba47ce6",
+		type: "item",
+		items: [{
+			item: "witchery:enchanted_broom"
+		}]
+	}]
+}

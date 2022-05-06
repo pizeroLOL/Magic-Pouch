@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 3.5d,
+	dependencies: [
+		"b081c275"
+	],
+	tasks: [{
+		uid: "88f24898",
+		type: "item",
+		items: [{
+			item: "witchery:wispy_cotton"
+		}]
+	}]
+}

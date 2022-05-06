@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -2.5d,
+	dependencies: [
+		"16e3c7ca"
+	],
+	tasks: [{
+		uid: "a7ceeb5f",
+		type: "item",
+		items: [{
+			item: "witchery:redstone_soup"
+		}]
+	}]
+}

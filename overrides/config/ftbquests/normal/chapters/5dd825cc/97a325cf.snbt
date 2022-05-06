@@ -1,0 +1,16 @@
+{
+	title: "虚化的噩梦",
+	x: 10.5d,
+	y: 5.0d,
+	description: "制造奇思妙想护符，使你免受梦魇的折磨",
+	dependencies: [
+		"f36edf01"
+	],
+	tasks: [{
+		uid: "cb43afa7",
+		type: "item",
+		items: [{
+			item: "witchery:fanciful_thinking_charm"
+		}]
+	}]
+}

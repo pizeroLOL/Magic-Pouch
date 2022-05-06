@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: -6.0d,
+	dependencies: [
+		"3c2cefae",
+		"5c349f8b"
+	],
+	tasks: [{
+		uid: "e5a4fe5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:devils_tongue_charm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

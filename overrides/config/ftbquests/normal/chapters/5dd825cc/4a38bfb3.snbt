@@ -1,0 +1,22 @@
+{
+	title: "我叫格鲁特",
+	x: 12.0d,
+	y: 3.5d,
+	description: "制作树皮腰带，能将法师盔甲变成战斗盔甲",
+	dependencies: [
+		"4b2bb65a",
+		"b6b99284"
+	],
+	tasks: [{
+		uid: "a1473ef7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:bark_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

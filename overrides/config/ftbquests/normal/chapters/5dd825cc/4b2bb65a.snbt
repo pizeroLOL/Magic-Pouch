@@ -1,0 +1,16 @@
+{
+	title: "澄澈心灵",
+	x: 10.5d,
+	y: 3.5d,
+	description: "在梦境世界酿造水心之酿",
+	dependencies: [
+		"f36edf01"
+	],
+	tasks: [{
+		uid: "98084e53",
+		type: "item",
+		items: [{
+			item: "witchery:flowing_spirit_brew"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: -6.5d,
+	dependencies: [
+		"6a7c9c3c"
+	],
+	tasks: [{
+		uid: "4632c149",
+		type: "item",
+		items: [{
+			item: "witchery:seer_stone"
+		}]
+	}]
+}

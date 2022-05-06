@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -2.5d,
+	dependencies: [
+		"ec0b8e8d"
+	],
+	tasks: [{
+		uid: "f012afcb",
+		type: "item",
+		items: [{
+			item: "witchery:luck_drop"
+		}]
+	}]
+}

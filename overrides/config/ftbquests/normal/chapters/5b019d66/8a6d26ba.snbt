@@ -1,0 +1,31 @@
+{
+	x: -8.0d,
+	y: 2.0d,
+	dependencies: [
+		"008b7efb"
+	],
+	tasks: [{
+		uid: "438fe1ec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:gulgs_grudle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a39236f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:mogs_quiver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "罪恶的交易",
+	x: 4.0d,
+	y: -4.0d,
+	description: "顶着一只恶魔的攻击换取恶魔之心...然后...干掉它!",
+	dependencies: [
+		"e084f650"
+	],
+	tasks: [{
+		uid: "e4a1ece1",
+		type: "item",
+		items: [{
+			item: "witchery:demon_heart"
+		}]
+	}]
+}

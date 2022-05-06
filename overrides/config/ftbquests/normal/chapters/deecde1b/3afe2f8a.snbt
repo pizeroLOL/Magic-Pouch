@@ -1,0 +1,24 @@
+{
+	title: "无比痛苦",
+	x: 1.0d,
+	y: -3.0d,
+	description: "受伤是一件痛苦的事，但是痛苦本身呢？",
+	text: [
+		"玩家手持痛苦契约站在石头圆阵中间长按右键14秒后消耗玩家任意种类注魔魔力10点，召唤痛苦之王。"
+	],
+	dependencies: [
+		"f2e1b242"
+	],
+	tasks: [{
+		uid: "5c78e4d1",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		},
+		entity: "witchery:lord_of_torment",
+		value: 1L
+	}]
+}

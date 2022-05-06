@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "58b35269",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:primordial_pearl"
+		}],
+		ignore_nbt: 1b
+	}]
+}

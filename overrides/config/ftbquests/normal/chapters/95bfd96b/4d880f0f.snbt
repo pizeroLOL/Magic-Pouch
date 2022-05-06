@@ -1,0 +1,28 @@
+{
+	x: -4.0d,
+	y: 6.0d,
+	dependencies: [
+		"e05d7e40"
+	],
+	tasks: [{
+		uid: "4fe194f9",
+		type: "item",
+		items: [{
+			item: "witchery:impregnated_leather"
+		}]
+	},
+	{
+		uid: "78404f5d",
+		type: "item",
+		items: [{
+			item: "witchery:golden_thread"
+		}]
+	},
+	{
+		uid: "b4bef862",
+		type: "item",
+		items: [{
+			item: "witchery:creeper_heart"
+		}]
+	}]
+}

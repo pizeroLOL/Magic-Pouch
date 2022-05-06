@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 2.0d,
+	dependencies: [
+		"eddf850f"
+	],
+	tasks: [{
+		uid: "814ef237",
+		type: "item",
+		items: [{
+			item: "witchery:koboldite_nugget"
+		}]
+	}]
+}

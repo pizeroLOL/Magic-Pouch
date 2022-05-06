@@ -1,0 +1,51 @@
+{
+	title: "多种多样的祭品",
+	x: -9.5d,
+	y: -2.0d,
+	description: "多多益善",
+	text: [
+		"这些祭品都是前期最好获得的祭品",
+		"骷髅头颅可以通过使用仪式匕首击杀骷髅得到"
+	],
+	dependencies: [
+		"fd16b80a"
+	],
+	tasks: [{
+		uid: "f53511ca",
+		type: "item",
+		items: [{
+			item: "minecraft:skull"
+		}]
+	},
+	{
+		uid: "634b096c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witchery:arthana"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1f438706",
+		type: "item",
+		items: [{
+			item: "witchery:chalice"
+		}]
+	},
+	{
+		uid: "cd77e5b9",
+		type: "item",
+		items: [{
+			item: "witchery:candelabra"
+		}]
+	}],
+	rewards: [{
+		uid: "c941da31",
+		type: "choice",
+		table: 0
+	}]
+}

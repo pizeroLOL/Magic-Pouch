@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.5d,
+	dependencies: [
+		"e05d7e40"
+	],
+	tasks: [{
+		uid: "52642831",
+		type: "item",
+		items: [{
+			item: "witchery:love_brew"
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -5.5d,
+	y: 4.5d,
+	dependencies: [
+		"e05d7e40",
+		"c255ebb3"
+	],
+	tasks: [{
+		uid: "823b2cb0",
+		type: "item",
+		items: [{
+			item: "witchery:ritual_circle_glyph"
+		}]
+	},
+	{
+		uid: "6a57cf3c",
+		type: "item",
+		items: [{
+			item: "witchery:heart_circle_glyph"
+		}]
+	}],
+	rewards: [{
+		uid: "6dcd6513",
+		type: "choice",
+		table: 8
+	}]
+}

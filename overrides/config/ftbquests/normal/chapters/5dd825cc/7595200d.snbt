@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -7.0d,
+	dependencies: [
+		"99344681"
+	],
+	tasks: [{
+		uid: "a7726257",
+		type: "item",
+		items: [{
+			item: "witchery:world_soul"
+		}]
+	}]
+}

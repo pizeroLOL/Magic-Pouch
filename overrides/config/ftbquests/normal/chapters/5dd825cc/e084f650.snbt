@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: -4.5d,
+	dependencies: [
+		"bc64582f"
+	],
+	tasks: [{
+		uid: "9ded0a47",
+		type: "item",
+		items: [{
+			item: "tconstruct:piggybackpack"
+		}]
+	}]
+}

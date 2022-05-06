@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "8be319a6",
+		type: "item",
+		items: [{
+			item: "wizardry:unicorn_horn"
+		}]
+	}]
+}

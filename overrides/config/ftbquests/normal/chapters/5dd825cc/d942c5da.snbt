@@ -1,0 +1,16 @@
+{
+	title: "昏昏欲睡",
+	x: 4.5d,
+	y: 3.5d,
+	description: "制作并喝下沉睡药水",
+	dependencies: [
+		"fea50fc6"
+	],
+	tasks: [{
+		uid: "488399c5",
+		type: "item",
+		items: [{
+			item: "witchery:sleeping_brew"
+		}]
+	}]
+}

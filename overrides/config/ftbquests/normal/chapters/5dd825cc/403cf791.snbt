@@ -1,0 +1,17 @@
+{
+	title: "惊险刺激的大逃杀",
+	x: 6.0d,
+	y: 3.5d,
+	description: "在梦魇的追杀下采集到12朵扰乱棉",
+	dependencies: [
+		"d942c5da"
+	],
+	tasks: [{
+		uid: "33d20e16",
+		type: "item",
+		items: [{
+			item: "witchery:disturbed_cotton"
+		}],
+		count: 12L
+	}]
+}

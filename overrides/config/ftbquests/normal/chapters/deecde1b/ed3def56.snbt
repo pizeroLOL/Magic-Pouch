@@ -1,0 +1,25 @@
+{
+	title: "死亡将至",
+	x: -6.5d,
+	y: -3.0d,
+	description: "在他处之界，死神正准备收割无知者的灵魂",
+	text: [
+		"当玩家试图使用圆环法阵试图将5名报死女妖，5名整蛊幽灵和5名幽魂绑定在灵物上时，死神将会被召唤。"
+	],
+	dependencies: [
+		"8dea74d3"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "21f4166a",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		},
+		entity: "witchery:death",
+		value: 1L
+	}]
+}

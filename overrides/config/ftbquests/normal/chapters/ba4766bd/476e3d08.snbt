@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "81d7c3b3",
+		type: "item",
+		items: [{
+			item: "naturesaura:sky_ingot"
+		}]
+	}]
+}

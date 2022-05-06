@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "574af6fa",
+		type: "item",
+		items: [{
+			item: "twilightforest:ironwood_ingot"
+		}]
+	}]
+}

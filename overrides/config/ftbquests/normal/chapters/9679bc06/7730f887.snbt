@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "72d43c24",
+		type: "item",
+		items: [{
+			item: "avaritia:double_compressed_crafting_table"
+		}]
+	}]
+}

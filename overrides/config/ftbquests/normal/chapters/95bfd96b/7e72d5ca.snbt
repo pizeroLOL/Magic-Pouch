@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: 4.5d,
+	dependencies: [
+		"fd16b80a"
+	],
+	tasks: [{
+		uid: "9e4d83a3",
+		type: "item",
+		items: [{
+			item: "witchery:attuned_stone"
+		}]
+	}]
+}

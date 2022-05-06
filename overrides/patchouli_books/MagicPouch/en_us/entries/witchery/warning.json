@@ -1,0 +1,12 @@
+{
+  "name" : "注意事项",
+  "icon" : "botania:cosmetic:31",
+  "category" : "witchery",
+  "sortnum" : 0,
+  "pages" : [
+    {
+      "type" : "text",
+      "text" : "该教程由mcbbs的PrinceXI原创，此处仅作少许修改。$(br)如原作者对此转载产生异议，则立刻删除。$(br)原帖地址：https://www.mcbbs.net/?1505672"
+    }
+  ]
+}

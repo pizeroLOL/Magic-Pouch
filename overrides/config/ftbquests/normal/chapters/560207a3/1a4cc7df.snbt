@@ -1,0 +1,26 @@
+{
+	title: "更好的熔炉",
+	x: -5.0d,
+	y: -2.0d,
+	description: "制作巫师烤炉和转化药膏",
+	text: [
+		"收集了足够多的植物之后，你现在可以制作一个更高效的熔炉和更好的炼药锅了，使用转换药膏右击普通的炼药锅将其转换为女巫坩埚"
+	],
+	dependencies: [
+		"c11a3e6b"
+	],
+	tasks: [{
+		uid: "dfb6d217",
+		type: "item",
+		items: [{
+			item: "witchery:anointing_paste"
+		}]
+	},
+	{
+		uid: "5baa3b69",
+		type: "item",
+		items: [{
+			item: "witchery:witches_oven"
+		}]
+	}]
+}
