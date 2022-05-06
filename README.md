@@ -1,2 +1,2 @@
 # Magic-Pouch
-A magic mod pack based on ATM:all the magic.
+A magic modpack based on ATM:all the magic.
